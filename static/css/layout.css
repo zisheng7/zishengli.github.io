@@ -39,6 +39,11 @@ p, address {
     margin-bottom: 20px;
 }
 
+.justify-text {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 header > h1, section > h1 {
     color: #002147;
     font-weight: bold;
