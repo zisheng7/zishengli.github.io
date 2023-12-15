@@ -41,6 +41,7 @@ p, address {
 
 header > h1, section > h1 {
     color: #002147;
+    font-weight: bold;
 }
 
 header > h1 {
