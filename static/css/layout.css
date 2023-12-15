@@ -3,7 +3,7 @@
 body {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-size: 15px;
-    line-height: 21px;
+    line-height: normal;
     color: rgb(48, 48, 48);
     border-top: 5px solid #002147;
     border-bottom: 5px solid #002147;
