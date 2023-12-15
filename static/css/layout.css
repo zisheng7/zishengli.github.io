@@ -7,6 +7,8 @@ body {
     color: rgb(48, 48, 48);
     border-top: 5px solid #002147;
     border-bottom: 5px solid #002147;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .container {
@@ -39,10 +41,6 @@ p, address {
     margin-bottom: 20px;
 }
 
-.justify-text {
-    text-align: justify;
-    text-justify: inter-word;
-}
 
 header > h1, section > h1 {
     color: #002147;
